@@ -1,0 +1,12 @@
+NAME		SALARY
+shashank	1	
+wewake		2	
+anuj		3	
+vijay		4
+	
+vidit		100000000			
+asfd		1568		
+
+we		343		
+
+ewrrterrtytuyyuiui		234		
